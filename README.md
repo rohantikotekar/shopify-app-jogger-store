@@ -9,3 +9,7 @@ Aslo worked on Shopify theme development using the Dawn theme as a foundation an
 Worked on Shopify theme development using the Dawn theme as a foundation and Liquid as the primary templating language. The front-end was built with responsive design principles, ensuring a seamless experience across all devices. Various sections and blocks were customized and added to enhance flexibility for merchants, including dynamic product displays, promotional banners, and customer testimonials. 
 
 
+# Output 
+
+The image labelled as OUTPUT is added in the repository
+
